@@ -1,0 +1,13 @@
+base.py                     15 INFO     正在获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="612a5a67ff9dc96002c34c4bfd32f2ea")>
+page_mp_login.py            38 INFO     正在调用自媒体登录方法，用户名：13012345678 密码：246810
+base.py                     31 INFO     正在调用查找元素方法
+base.py                     20 INFO     正在查找: ('css selector', '.el-input__inner') 元素
+base.py                     33 INFO     正在对：('css selector', '.el-input__inner') 元素执行清空操作
+base.py                     36 INFO     正在对：('css selector', '.el-input__inner') 元素执行输入：13012345678 操作
+base.py                     31 INFO     正在调用查找元素方法
+base.py                     20 INFO     正在查找: ('css selector', "[placeholder='验证码']") 元素
+base.py                     33 INFO     正在对：('css selector', "[placeholder='验证码']") 元素执行清空操作
+base.py                     36 INFO     正在对：('css selector', "[placeholder='验证码']") 元素执行输入：246810 操作
+base.py                     42 INFO     正在对：('css selector', '.el-button--primary') 元素执行点击操作
+base.py                     20 INFO     正在查找: ('css selector', '.el-button--primary') 元素
+base.py                     15 INFO     正在获取driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="612a5a67ff9dc96002c34c4bfd32f2ea")>

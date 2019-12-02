@@ -1,0 +1,21 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1575277823640" stop="1575277833163">
+  <name>test03_mis_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1575277823640" status="passed" stop="1575277833163">
+      <name>TestMisLogin.test_mis_login[testid-testpwd123-\u7ba1\u7406\u5458]</name>
+      <attachments>
+        <attachment source="02185dd3-7d65-4676-9a25-456bed9178c2-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="444c0abf-4be6-463d-ae0d-6dc85402554d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1468-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

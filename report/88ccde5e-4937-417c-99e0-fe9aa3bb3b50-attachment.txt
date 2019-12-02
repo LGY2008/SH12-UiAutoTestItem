@@ -1,0 +1,1 @@
+base.py                     15 INFO     正在获取driver对象：<appium.webdriver.webdriver.WebDriver (session="ed2b4bf6-a66b-4f07-83d6-213fdba2abd3")>
